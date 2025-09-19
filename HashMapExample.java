@@ -37,6 +37,7 @@ public class HashMapExample {
             System.out.println("Key: " + entry.getKey() + ", Value: " + entry.getValue());
         }
 
+        System.out.println();
 
     }
 }
